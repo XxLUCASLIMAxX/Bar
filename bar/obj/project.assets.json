@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\bar.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\bar\\bar.csproj",
       "projectName": "bar",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\bar.csproj",
+      "projectPath": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\bar\\bar.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\source\\repos\\bar\\bar\\bar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
