@@ -9,7 +9,7 @@ namespace bar.Models
         public int codigo { get; set; }
         public string Name { get; set; }
 
-
+        
         public double valor        {get;set; }
 
         public double setValor ()
@@ -19,6 +19,18 @@ namespace bar.Models
                     }
 
             return valor;
+        }
+
+        public int  quantidade {            
+            get
+            {
+                return this.quantidade;
+            } 
+            set
+            {
+                this.quantidade = itens.Count;
+            
+            } 
         }
         public List<item> itens { get; set; }
 
